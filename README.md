@@ -1,6 +1,7 @@
 # MySQLWorkbench
 Vários exercícios sobre modelagem de dados. 
-Os exercícios estarão armazenados na pasta Exercícios. kkkkkkk
+
+Os exercícios estarão armazenados na pasta Exercícios.
 
 ## Lista de exercícios
 
