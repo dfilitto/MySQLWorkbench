@@ -1,5 +1,6 @@
 # MySQLWorkbench
 Vários exercícios sobre modelagem de dados. 
+[Playlist com os exercícios resolvidos] (https://www.youtube.com/playlist?list=PLfvOpw8k80WoSXjfGFci23SPob_PdvpHx)
 
 Os exercícios estarão armazenados na pasta Exercícios.
 
